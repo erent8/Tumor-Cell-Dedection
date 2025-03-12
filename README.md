@@ -1,1 +1,1 @@
-# Tumor-Cell-Dedection
+# Tumor-Cell-Detection
